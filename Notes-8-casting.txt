@@ -15,7 +15,7 @@ casting is of two types primitive casting and object casting
 	  double d = 10;
 
 	explicit widening -- programmer performing widening operation while developing code.
-	  double d = (int)10;
+	  double d = (double)10;
 
 	 ---  ----  ---> ---- >  --- >widening---  ----  ---> ---- >  --- >
 
