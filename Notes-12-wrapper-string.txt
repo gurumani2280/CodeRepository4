@@ -69,12 +69,15 @@ String Class -- final class
 			-- In Constant pool Duplicates are NOT allowed
 	String s1 = "Hi";
 
+String r1 = "Hi";
+
 	String s6 = "Hi" + "Hello";
 	
 
 NOn Constant pool -- String object created using new operator will be stored in Non-Constant Pool
 			-- In Non-Constant pool Duplicates are  allowed
 	String s4 = new String("HiHello");
+String r4 = new String("HiHello");
 
 	String s5 = "Hi" + s2;
 

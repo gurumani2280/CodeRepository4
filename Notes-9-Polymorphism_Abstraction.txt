@@ -35,8 +35,8 @@ and inside for loop call the sound () of the Animal
 1. Run Time Polymorphism  --- 
 2 . Compile time polymorphism. (Through Method overloading) 
 
-	 based on methdo binding binding -- before method executes on stack , binding should happen
-	 method binding -- resolution / resolving which method will be called/invoke
+	 based on method binding binding -- before method executes on stack , binding should happen
+	 method binding -- resolution / resolving which method will be called/invoke/executed
 
 	 in case of method overloading complier can figure out which method will be called at the compile time itself
 
