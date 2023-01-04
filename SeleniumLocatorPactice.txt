@@ -59,6 +59,7 @@ methods of WebDriver Interface
 2. navigate().to()
 3. findElement()
 4. quit()
+5 findElement()
 
 
 
@@ -66,3 +67,5 @@ method of WebElement
 1. sendKeys("") --
 2. clear()
 3. click()
+4. getAttribute()
+5. getCssValue()
